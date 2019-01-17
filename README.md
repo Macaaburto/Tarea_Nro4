@@ -1,6 +1,9 @@
 # Tarea_Nro4
 Ejercicios de For-Loop
 
+Recomiendo meterse directamente a las funciones que se encuentra con su receta de diseño.
+Ademas del r que usted eliga el nombre y las llamas, ya que aqui sale todo corrido!!!
+
 Pregunta del ejercicio 5.- 
 
 Para contestar la pregunta ¿Que tan lento es crear 5000 ruts?
