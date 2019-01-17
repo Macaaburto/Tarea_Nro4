@@ -40,9 +40,9 @@ proc.time() - tiempo
 
 
 "Receta de diseño"
-"contarSaldoNegativo: ... -> int"
-"Definicion contarSaldoNegativo: ....."
-"Ejemplo: ...."
+"contarSaldoNegativo: string-> int"
+"Definicion contarSaldoNegativo: contar la cantidad de clientes con saldos negativos"
+"Ejemplo: contarSaldoNegativo (clientes)"
 
 clientes <- list (list(1,"paulina",-22000),list(2,"ruben",-50000),list(3,"carlos",1000),list(4,"mary",-25000))
 
@@ -64,7 +64,7 @@ contarSaldoNegativo(clientes)
 
 "Receta de diseño"
 "sinvocales: string -> string sin vocales"
-"Definicion sinvocales: introducir x frase que sea devuelta sin las vocales"
+"Definicion sinvocales: retornar x frase sin sus vocales"
 "Ejemplos: Chile campeon , El partido termino con 0 goles "
 
 sinVocales <- function(oracion){
